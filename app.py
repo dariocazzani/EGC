@@ -1,8 +1,6 @@
-from tkinter.messagebox import YES
 import streamlit as st
 import pandas as pd
 import datetime
-import joblib
 from parse_data import run
 from PIL import Image
 
